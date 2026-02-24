@@ -1,0 +1,33 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1" tvg-name="DSPORT 1"
+https://tvtvhd.com/vivo/canales.php?stream=dsports
+#EXTINF:-2 tvg-id="2" tvg-name="DSPORT 2"
+https://tvtvhd.com/vivo/canales.php?stream=dsports2
+#EXTINF:-3 tvg-id="3" tvg-name="DSPORT +"
+https://tvtvhd.com/vivo/canales.php?stream=dsportsplus
+#EXTINF:-4 tvg-id="4" tvg-name="ESPN PREMIUM"
+https://streamtp10.com/global1.php?stream=espnpremium
+#EXTINF:-5 tvg-id="5" tvg-name="ESPN 1"
+https://tvtvhd.com/vivo/canales.php?stream=espn
+#EXTINF:-6 tvg-id="6" tvg-name="ESPN 2"
+https://tvtvhd.com/vivo/canales.php?stream=espn2
+#EXTINF:-7 tvg-id="7" tvg-name="ESPN 3"
+https://tvtvhd.com/vivo/canales.php?stream=espn3
+#EXTINF:-8 tvg-id="8" tvg-name="ESPN 4"
+https://la14hd.com/vivo/canales.php?stream=espn4
+#EXTINF:-9 tvg-id="9" tvg-name="ESPN DEPORTES"
+https://streamtp501.com/global1.php?stream=espndeportes
+#EXTINF:-10 tvg-id="10" tvg-name="FOX SPORT 1"
+https://tvtvhd.com/vivo/canales.php?stream=foxsports
+#EXTINF:-11 tvg-id="11" tvg-name="FOX SPORT 2"
+https://tvtvhd.com/vivo/canales.php?stream=foxsports2
+#EXTINF:-12 tvg-id="12" tvg-name="FOX SPORT 3"
+https://tvtvhd.com/vivo/canales.php?stream=foxsports3
+#EXTINF:-13 tvg-id="13" tvg-name="FOX SPORT MX"
+https://streamtp501.com/global1.php?stream=foxsportsmx
+#EXTINF:-14 tvg-id="14" tvg-name="WIN SPORT"
+https://streamtp501.com/global1.php?stream=winplus
+#EXTINF:-15 tvg-id="15" tvg-name="T&C SPORT"
+https://streamtpcloud.com/global1.php?stream=tycsports
+#EXTINF:-15 tvg-id="15" tvg-name="TNT SPORT"
+https://la14hd.com/vivo/canal.php?stream=tntsports
